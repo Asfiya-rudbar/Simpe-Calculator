@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+ background-image: url(./img..jpg);
+}
+
+h2{
+    margin-bottom: 1rem;
+}
+
+.container{
+    height: 25rem;
+    width: 32rem;
+    position: absolute;
+    top: 20%;
+    left: 33%;
+    right: 35%;
+    padding-top: 2rem;
+    padding-left: 6rem;
+    background-color: rgb(239, 199, 149);
+    border-radius: 8px;
+ 
+  
+}
+
+input{
+    margin: 8px;
+}
+
+p{
+    margin: 10px;
+}
+
+.submit{
+    margin: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-right: 9px;
+    padding-left: 9px;
+
+}
+
+
+#refresh{
+    padding: 3px;
+}
