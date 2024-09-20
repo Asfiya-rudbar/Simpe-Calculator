@@ -4,4 +4,4 @@
 
 This calculator performs addition, subtraction, multiplication, and division, providing users with a straightforward way to crunch numbers. It was a great exercise in handling user input and implementing basic arithmetic functions.
 
-I’d love to hear your feedback! 💻 #JavaScript #WebDevelopment #Coding #CalculatorProject
+I’d love to hear your feedback! 💻
